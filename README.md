@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @spiderbOOt
 - 👀 I’m interested in Exploring New Things
-- 🌱 I’m currently learning Nothing 
-- 💞️ I’m looking to collaborate on Nothing 
-- 📫 How to reach me by Transport 
+- 🌱 I’m currently a CSE student.
+
 
 <!---
 spiderbOOt/spiderbOOt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
